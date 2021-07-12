@@ -1,0 +1,3 @@
+/home/franz/.npm/_logs/2021-07-12T20_08_38_507Z-debug.log
+/home/franz/Documentos/slimgen/package.json
+/home/franz/Documentos/slimgen/index.js

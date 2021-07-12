@@ -1,0 +1,4 @@
+INSERT INTO ds (teszt_1, teszt_2, teszt_3, teszt_4) VALUES('Asd', '1', '0', '1');
+INSERT INTO ds (teszt_1, teszt_2, teszt_4) VALUES('asd2', '2', '2');
+INSERT INTO ds (teszt_1, teszt_2, teszt_3, teszt_4) VALUES('asd3', '3', '4', '3');
+INSERT INTO ds (teszt_1, teszt_2, teszt_3, teszt_4) VALUES('Itt van szép sztring', 'árvíztűrő tükörfúrógép', 'itt van ''aposztróf'' is meg “ilyen” is', '0');

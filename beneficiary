@@ -1,0 +1,4 @@
+INSERT INTO benificiary (beneficiary, date_visit, visit_in, social_worker) VALUES('FAMILY', '27/05/2021', 'HOME VISIT', 'social2 social2');
+INSERT INTO benificiary (beneficiary, date_visit, visit_in, social_worker) VALUES('FAMILY', '27/05/2021', 'HOME VISIT', 'social2 social2');
+INSERT INTO benificiary (beneficiary, date_visit, visit_in, social_worker) VALUES('Beneficiary', 'Date Visit', 'Visit In', 'Social Worker');
+INSERT INTO benificiary (beneficiary, date_visit, visit_in, social_worker) VALUES('FAMILY', '27/05/2021', 'HOME VISIT', 'social2 social2');
